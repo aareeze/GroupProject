@@ -46,7 +46,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
    * [list associated required story here]
    * ...
 --> 
-### 3. Navigation
+### 2. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
