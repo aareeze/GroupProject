@@ -60,8 +60,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 
 ## Wireframes
 
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-![WireFrame](https://user-images.githubusercontent.com/36831852/140460494-87706322-28cf-4113-80f7-711bc3c2a8a4.jpg)
+<img src="wireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
