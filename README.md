@@ -37,7 +37,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 - [ ] Digital Wireframe/Mockup Images 
 - [ ] Interactive Prototype gif
 
-### 2. Screen Archetypes
+<!-- ### 2. Screen Archetypes
 
 * [list first screen here]
    * [list associated required story here]
@@ -45,7 +45,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 * [list second screen here]
    * [list associated required story here]
    * ...
-
+--> 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -98,8 +98,17 @@ drivePro will allow users to compare prices from various rental car enterprises 
    | Similar Vehicles  | Image | vehicles of similar size (compact, mid-size, full-size) |
    
 #### Rental Agency
-### Models
-[Add table of models]
+  
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | Company       | String   | name of rental agency |
+   | Location      | String   | physical address to pick up the car |
+   | Age Requirement  | String   | how old you have to be to rent from this agency  |
+   | Fees          | Number   | payments in addition to price per day |
+   | Company Phone Number | Number   | primary mode of contact |
+   | Company Email    | Email  | secondary mode of contact |
+   
+   
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
