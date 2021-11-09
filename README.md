@@ -56,12 +56,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+<image src="WireFrame 2.jpeg" width=600>
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
