@@ -100,18 +100,22 @@ drivePro will allow users to compare prices from various rental car enterprises 
    | Company Email    | Email  | secondary mode of contact |
   
   
-    
-  #### API's 
+  #### API's  
   
-  |  Rental       Reservation   Model     Year   Car
-  | ---------- |--------------| ---------|-----|-----|
-  | Car Rental | Reservation  | Model    | Year| Car |
-  | Car Rental |  geo_search  | Location |     |     |
-  |            |              |          |     |     |  
+  | Rental | Reservation |  Model | Year | Car
+| ------------- | ------------- | ---------| --------| -------|
+| Car Rental    | Reservation   | Model    | Year    | Car    |
+| Car Rental    | geo_search    | Location |         |        |
+  
+   
+
    
    
 #### Networking
 - [Add list of network requests by screen ]
+  
+  | CRUB       | HTTP Verb       | Example      |      |       |
+  | -----------|-----------------|--------------|
   
 - [Create basic snippets for each Parse network request]
   
