@@ -105,7 +105,8 @@ drivePro will allow users to compare prices from various rental car enterprises 
   
 - [Create basic snippets for each Parse network request]
   
-  
+  ##Parse Query Code Snippet
+  '''Java
   it('should get PII via API with Get using master key', done => {
    Parse.User.logOut().then(() =>
     new Parse.Query(Parse.User)
