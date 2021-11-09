@@ -98,6 +98,16 @@ drivePro will allow users to compare prices from various rental car enterprises 
    | Fees          | Number   | payments in addition to price per day |
    | Company Phone Number | Number   | primary mode of contact |
    | Company Email    | Email  | secondary mode of contact |
+  
+  
+    
+  #### API's 
+  
+  |  Rental       Reservation   Model     Year   Car
+  | ---------- |--------------| ---------|-----|-----|
+  | Car Rental | Reservation  | Model    | Year| Car |
+  | Car Rental |  geo_search  | Location |     |     |
+  |            |              |          |     |     |  
    
    
 #### Networking
@@ -126,14 +136,5 @@ drivePro will allow users to compare prices from various rental car enterprises 
   #API's Links
   https://developer.sabre.com/docs/rest_apis/utility/geo_search
   
-  https://www.travelopro.com/car-rental-reservation-system.php
-  
-  #### API's 
-  
-  
-  |  Rental       Reservation   Model
-  | ---------- |--------------| ---------|-----|-----|
-  | Car Rental | Reservation  | Model    | Year| Car |
-  | Car Rental |  geo_search  | Location |     |     |
-  |            |              |          |     |     |    
+  https://www.travelopro.com/car-rental-reservation-system.php  
  
