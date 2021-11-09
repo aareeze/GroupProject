@@ -105,6 +105,3 @@ drivePro will allow users to compare prices from various rental car enterprises 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
-## Schema 
-
-### Networking
