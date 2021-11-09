@@ -102,7 +102,23 @@ drivePro will allow users to compare prices from various rental car enterprises 
    
 #### Networking
 - [Add list of network requests by screen ]
+  
 - [Create basic snippets for each Parse network request]
+  
+  
+  it('should get PII via API with Get using master key', done => {
+   Parse.User.logOut().then(() =>
+    new Parse.Query(Parse.User)
+     .get(user.id, { useMasterKey: true })
+     .then(fetchedUser => {
+      expect(fetchedUser.get('email')).toBe(EMAIL);
+      expect(fetchedUser.get('zip')).toBe(ZIP);
+      expect(fetchedUser.get('ssn')).toBe(SSN);
+      done();
+     })
+   );
+  });
+  
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
   
@@ -113,7 +129,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
   
   #### API's 
   |  Rental       Reservation   Model
-  | ---------- | ---- ---- - -| ---------|-----|-----|
+  | ---------- |--------------| ---------|-----|-----|
   | Car Rental | Reservation  | Model    | Year| Car |
   | Car Rental |  geo_search  | Location |     |     |
   |            |              |          |     |     |    
