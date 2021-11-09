@@ -111,8 +111,9 @@ drivePro will allow users to compare prices from various rental car enterprises 
   
   https://www.travelopro.com/car-rental-reservation-system.php
   
-  ###API's 
-  | ---------- | -------- ----| ---------|-----|-----|
+  #### API's 
+  |  Rental       Reservation   Model
+  | ---------- | ---- ---- - -| ---------|-----|-----|
   | Car Rental | Reservation  | Model    | Year| Car |
   | Car Rental |  geo_search  | Location |     |     |
   |            |              |          |     |     |    
