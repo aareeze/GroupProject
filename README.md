@@ -114,10 +114,34 @@ drivePro will allow users to compare prices from various rental car enterprises 
 #### Networking
 - [Add list of network requests by screen ]
   
-  | CRUB       | HTTP Verb       | Example      |      |       |
-  | -----------|-----------------|--------------|
+ ####Network Request
+  
+  | Rental | Http |  Example
+| ------------- | ------------- | ---------| 
+| Create  | Post   | Create User      |
+| Update  | Get    | Rentals          |  
+| Read    | Get    | User Information |
+  
+  
+  
+  ```
+  
+  Home Feed Screen
+(Read/GET) Read in Username and Password
+(Create/POST) Create List of Rentals
+(Create/POST) Create Categories of Rentals.
+(Delete) Delete existing comment
+Create Post Screen
+(Create/POST) Create a new post object
+Profile Screen
+(Read/GET) Query logged in user object
+(Update/PUT) Update user profile image
+  
+  ```
   
 - [Create basic snippets for each Parse network request]
+  
+  ```
   
   ##Parse Query Code Snippet
   '''Java
@@ -134,11 +158,17 @@ drivePro will allow users to compare prices from various rental car enterprises 
    );
   });
   
+  ```
+  
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
+  ```
   
   #API's Links
+  https://www.etravos.com/car-rental-api-integration.html
+  
   https://developer.sabre.com/docs/rest_apis/utility/geo_search
   
   https://www.travelopro.com/car-rental-reservation-system.php  
  
+```
