@@ -198,3 +198,5 @@ different functions of the app.
   
   An issue of the app not reading in the google API's occured when the program was not runnin in Administartor mode for Android Studios
   
+  During this phase trying to add more more layout features and buttons to the activity_login.xml, the issues arrived of the OnCliclListener causing the program to crash so I had to go back and look at it. Changing some code around.
+  
