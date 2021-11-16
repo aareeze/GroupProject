@@ -186,6 +186,11 @@ Profile Screen
 ```
   
   
+  ##Sprint planned for next week 
+  
+  The plan for next week is to have a completely designed login_xml, signup_xml and have both screens fully functional. The issues created are the implementation of specific design features and functions are more challenging than previously thought. Different parts of the project will be sent to individuals in the group. On the login_xml I added a LinearLayout inside of a LinearLayout with google functions. Which I and the group plan to have to work definitely by the next unit. 
+  
+  
    
   
   
