@@ -30,7 +30,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 - [X] App spec: user stories, screens & navigation flows
 - [X] Wireframe images 
 - [X] Updated group info in the Course Portal: Group Name + App Description. 
-- [ ] User can login to drivePro application
+- [X] User can login to drivePro application
 - [ ] User can view vehicles available in the area
 
 
@@ -174,3 +174,17 @@ Profile Screen
   https://www.travelopro.com/car-rental-reservation-system.php  
  
 ```
+  
+  
+   
+  
+  
+  ##Updated status of issues in Project board
+  
+  An issue with the SSL Projects error occurred. Causing the program not to compile correctly. This issue was resolved by going into setting's/System Settings/Android SDK/ SDK Update sites. The sites were checked and updated. Causing the program to work properly.
+
+Animations are added to the start home screen of the program. Multiple XML files are created for
+different functions of the app. 
+  
+  An issue of the app not reading in the google API's occured when the program was not runnin in Administartor mode for Android Studios
+  
