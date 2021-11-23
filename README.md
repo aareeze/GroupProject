@@ -196,7 +196,7 @@ Profile Screen
   
   
    
-  
+   
   
   ##Updated status of issues in Project board
   
