@@ -31,7 +31,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 - [X] Wireframe images 
 - [X] Updated group info in the Course Portal: Group Name + App Description. 
 - [X] User can login to drivePro application
-- [ ] User can view vehicles available in the area
+- [x] User can view vehicles available in the area
 - [ ] User can view vehicle specs
 - [ ] User can compare prices to similar vehicles
 
