@@ -32,7 +32,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 - [X] Updated group info in the Course Portal: Group Name + App Description. 
 - [X] User can login to drivePro application
 - [x] User can view vehicles available in the area
-- [ ] User can view vehicle specs
+- [x] User can view vehicle specs
 - [ ] User can compare prices to similar vehicles
 
 
@@ -56,9 +56,7 @@ drivePro will allow users to compare prices from various rental car enterprises 
 ### GIF Walkthrough
 
 
-<img src="driveProPart2.gif" height="600" width="300">
-
-
+![Unit 13 and 14](https://user-images.githubusercontent.com/36831852/144989899-5c834984-b030-41c3-ba49-73084b31bdaa.gif)
 
 
 
@@ -209,3 +207,17 @@ different functions of the app.
   
   During this phase trying to add more more layout features and buttons to the activity_login.xml, the issues arrived of the OnCliclListener causing the program to crash so I had to go back and look at it. Changing some code around.
   
+  
+  ##Update
+  
+  Rework of the app from the ground up
+  
+  Added fucntional signup and login features.
+  
+  Updated UI design new headers, colors, and titles
+  
+  Issues with API's for sportscars popping upa nd issue with certain car vechiles popping up.
+  
+  The program is case sensative when booking
+  
+  Adding new logo's to protect and polishing up the UI design
